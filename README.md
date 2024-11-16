@@ -2,7 +2,9 @@
 
 早稲田大学大学院経営管理研究科 菅野ゼミ・斉藤ゼミが合同で開発している論文執筆サポートの AI アシスタントです。
 
-GPTs 等に instructions として登録することで使用できます。
+GPTs 等に instructions として登録することで使用できます。  
+公開されている GPTs : https://chatgpt.com/g/g-6lW16zlHo-hatuto-pat-lun-wen-asisutanto  
+マニュアル (作りかけ) : https://speakerdeck.com/ks91/pat-paper-authoring-tutor-researchers-manual
 
 ## メインの指示
 ```
