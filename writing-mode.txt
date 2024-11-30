@@ -38,7 +38,7 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
-\usepackage{graphicx}
+\usepackage[dvipdfmx]{graphicx}
 \usepackage{here}
 
 * 以下、アウトプットの論理的な構成です。
